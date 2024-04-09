@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hariharan1595/weather-forecast-app.git/static/css/main.123d1a50.css",
+    "main.js": "/Hariharan1595/weather-forecast-app.git/static/js/main.12a05213.js",
+    "static/media/fa-solid-900.ttf": "/Hariharan1595/weather-forecast-app.git/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Hariharan1595/weather-forecast-app.git/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Hariharan1595/weather-forecast-app.git/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Hariharan1595/weather-forecast-app.git/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/background.png": "/Hariharan1595/weather-forecast-app.git/static/media/background.da37828d41090154f962.png",
+    "static/media/fa-regular-400.ttf": "/Hariharan1595/weather-forecast-app.git/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Hariharan1595/weather-forecast-app.git/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Hariharan1595/weather-forecast-app.git/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Hariharan1595/weather-forecast-app.git/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Hariharan1595/weather-forecast-app.git/index.html",
+    "main.123d1a50.css.map": "/Hariharan1595/weather-forecast-app.git/static/css/main.123d1a50.css.map",
+    "main.12a05213.js.map": "/Hariharan1595/weather-forecast-app.git/static/js/main.12a05213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.123d1a50.css",
+    "static/js/main.12a05213.js"
+  ]
+}
